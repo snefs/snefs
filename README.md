@@ -26,7 +26,7 @@
 - 👨‍💻 All of my interests/projects are available at [https://github.com/snefs](https://github.com/snefs) and [Technology](https://github.com/ITConnector-nl/projects/blob/master/README.md)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snefs&" alt="snefs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snefs&show_icons=true&locale=en" alt="snefs" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snefs&show_icons=true&locale=en" alt="snefs" /></p>-->
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snefs&show_icons=true&locale=en&layout=compact" alt="snefs" /></p>-->
 
 
