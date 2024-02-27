@@ -19,8 +19,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sandernefs/](https://www.linkedin.com/in/sandernefs/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sandernefs/](https://www.linkedin.com/in/sandernefs/)
-
 - 📝 Templates I've created that might be usefull: [ITConnector](https://github.com/ITConnector-nl/documents)
 
 - 👨‍💻 All of my interests/projects are available at [https://github.com/snefs](https://github.com/snefs) and [Technology](https://github.com/ITConnector-nl/projects/blob/master/README.md)
