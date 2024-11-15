@@ -67,6 +67,7 @@
 # Blogs written
 
 ### 2024
+- [Documenting Bicep - PSDocs or PSBicep](https://www.linkedin.com/pulse/documenting-bicep-psdocs-psbicep-sander-nefs-azure-integration--pznhe/)
 - [Sure feels good to tell AI what to do!](https://www.linkedin.com/pulse/sure-feels-good-tell-ai-what-do-sander-nefs-azure-integration--gn7xe/)
 - [Deploying Azure AI Search artefacts (index / indexer / synonym maps)](https://www.linkedin.com/pulse/deploying-azure-ai-search-artefacts-index-indexer-sander-usioe/?trackingId=WsQ5kz1PTxGqMmVXytwonw%3D%3D)
 - [Logic App Data mapper in the cloud](https://www.linkedin.com/pulse/logic-app-data-mapper-cloud-sander-nefs-azure-integration--20rme/)
