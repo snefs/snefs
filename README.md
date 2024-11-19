@@ -14,6 +14,9 @@
 <br>
 
 - 🔭 I’m currently working on **Azure Integration projects**
+  - For these projects I am profound in use Logic Apps / Functions / Service Bus / API Management / Service Bus / Event Grid.
+  - My tasks entail from start to finish the integration patterns / architecture / design / development
+  - I'm typically involved in complexed (ERP) projects and have experience with integrations of a variety of products (SAP4HANA / D365FO / Dataverse / Stibo Systems / etc.) 
 
 - 🌱 I’m currently learning **Flutter and developing mobile Apps**
 
