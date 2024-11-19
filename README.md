@@ -63,10 +63,9 @@
                 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
             </p>
 
-# Podcasts
-[NotebookLM LinkedIn profile](https://github.com/snefs/Azure/blob/main/audio/LinkedinProfile_19-nov-2024.mp3)
+# Audio content
+[Audio files (e.g. podcasts)](https://snefs.github.io/Azure/Audio/Audiofiles.html)
 
-[NotebookLM Ignite2024_BookofNews](https://github.com/snefs/Azure/blob/audio/main/ignite2024_bookofnews.mp3)
 
 # Blogs written
 
