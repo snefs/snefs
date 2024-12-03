@@ -58,8 +58,9 @@
 # Audio content
 [Audio files (e.g. podcasts)](https://snefs.github.io/Azure/Audio/Audiofiles.html)
 
+# 2024
 
-# Blogs written
+## Blogs written
 
 ### 2024
 - [Documenting Bicep - PSDocs or PSBicep](https://www.linkedin.com/pulse/documenting-bicep-psdocs-psbicep-sander-nefs-azure-integration--pznhe/)
@@ -67,51 +68,20 @@
 - [Deploying Azure AI Search artefacts (index / indexer / synonym maps)](https://www.linkedin.com/pulse/deploying-azure-ai-search-artefacts-index-indexer-sander-usioe/?trackingId=WsQ5kz1PTxGqMmVXytwonw%3D%3D)
 - [Logic App Data mapper in the cloud](https://www.linkedin.com/pulse/logic-app-data-mapper-cloud-sander-nefs-azure-integration--20rme/)
 
-### 2019
-
-### https://medium.com/@snefs
-[Deep insights in Azure durable functions data with process mining](https://medium.com/@snefs/deep-insights-in-azure-durable-functions-data-with-process-mining-b8d93dd76a99)
-
-#### https://medium.com/@futureimpact
-- [[AI] What if Dr Evil has it?](https://medium.com/@futureimpact/ai-what-if-dr-evil-has-it-c7796525fd70)
-- [[AI] Why are we stealing jobs of AI?](https://medium.com/@futureimpact/ai-why-are-we-stealing-jobs-of-ai-74ec654ad897)
-- [[AI] What is real and what not?](https://medium.com/@futureimpact/ai-what-is-real-and-what-not-485c0b21c3e7)
-- [[AI] What if AI became AI?](https://medium.com/@futureimpact/ai-what-if-ai-became-ai-275553612c3b)
-- [[AI] When does it become intelligent?](https://medium.com/@futureimpact/ai-when-does-it-become-intelligent-8f4abd0863d7)
-- [Alternative Reality, Part 4— Experiments](https://medium.com/@futureimpact/alternative-reality-e3a1e3c7d39)
-- [Alternative Reality, Part 3 — The building blocks for future experiments](https://medium.com/@futureimpact/alternative-reality-e85e650cc3ee)
-- [Alternative Reality, Part 2 — What IF?](https://medium.com/@futureimpact/alternative-reality-85218562fe42)
-- [Alternative Reality, Part 1 — The Minimal Viable Product](https://medium.com/@futureimpact/alternative-reality-4c415fe57c44)
-- [[Future][Impact] — Introduction](https://medium.com/@futureimpact/future-impact-our-mission-3ed91c5459d0)
-
-### 2018
-
-- [Monitoring Azure Service Health](https://dibranmulder.github.io/2018/08/20/Azure-Service-Health/)
-- [Azure Managed Identity](https://dibranmulder.github.io/2018/10/05/Azure-AD-Managed-Service-Identity/)
-
-### 2016
-
-- [Hololens](https://web.archive.org/web/20161113081801/http://caesarexperts.nl/blog/Blog_Sander_over_Hololens)
-- [Microsoft Band 2](https://web.archive.org/web/20160708214050/http://caesarexperts.nl/blog/Blog_Sander_over_de_MS_Band)
-- IoT Suite (@caesarexperts)
-
-
-### 2009 - 2015
-- Integration blog about Microsoft Integration: [https://snefs.blogspot.com/](https://snefs.blogspot.com/)
-
-# The list of sessions I presented for customers / events
+## The list of sessions I presented for customers / events
 
 ### 2024
-- Logic Apps
-- Error handling
+- Introduction and best practices for developing Logic Apps
+- Error handling principles in Azure
 - Logic App Data mapper course
+- Azure Search for enterprises
    
 ### 2023
-- Azure Cost management
-- CARML - Bicep
-- Azure DevOps 
-- Azure Integration Services
-- Azure Monitoring
+- Leverage Azure Cost management
+- Workshop CARML - Bicep
+- Workshop Azure DevOps 
+- Workshop Azure Integration Services
+- Workshop Azure Monitoring
 
 ### 2021
 - Using IoT Edge in the Factory
@@ -183,3 +153,37 @@
 
 #### *Inhouse training: These are sessions, given for a company and cannot be shared.
 
+
+# BLOGS < 2024
+
+### 2019
+
+### https://medium.com/@snefs
+[Deep insights in Azure durable functions data with process mining](https://medium.com/@snefs/deep-insights-in-azure-durable-functions-data-with-process-mining-b8d93dd76a99)
+
+#### https://medium.com/@futureimpact
+- [[AI] What if Dr Evil has it?](https://medium.com/@futureimpact/ai-what-if-dr-evil-has-it-c7796525fd70)
+- [[AI] Why are we stealing jobs of AI?](https://medium.com/@futureimpact/ai-why-are-we-stealing-jobs-of-ai-74ec654ad897)
+- [[AI] What is real and what not?](https://medium.com/@futureimpact/ai-what-is-real-and-what-not-485c0b21c3e7)
+- [[AI] What if AI became AI?](https://medium.com/@futureimpact/ai-what-if-ai-became-ai-275553612c3b)
+- [[AI] When does it become intelligent?](https://medium.com/@futureimpact/ai-when-does-it-become-intelligent-8f4abd0863d7)
+- [Alternative Reality, Part 4— Experiments](https://medium.com/@futureimpact/alternative-reality-e3a1e3c7d39)
+- [Alternative Reality, Part 3 — The building blocks for future experiments](https://medium.com/@futureimpact/alternative-reality-e85e650cc3ee)
+- [Alternative Reality, Part 2 — What IF?](https://medium.com/@futureimpact/alternative-reality-85218562fe42)
+- [Alternative Reality, Part 1 — The Minimal Viable Product](https://medium.com/@futureimpact/alternative-reality-4c415fe57c44)
+- [[Future][Impact] — Introduction](https://medium.com/@futureimpact/future-impact-our-mission-3ed91c5459d0)
+
+### 2018
+
+- [Monitoring Azure Service Health](https://dibranmulder.github.io/2018/08/20/Azure-Service-Health/)
+- [Azure Managed Identity](https://dibranmulder.github.io/2018/10/05/Azure-AD-Managed-Service-Identity/)
+
+### 2016
+
+- [Hololens](https://web.archive.org/web/20161113081801/http://caesarexperts.nl/blog/Blog_Sander_over_Hololens)
+- [Microsoft Band 2](https://web.archive.org/web/20160708214050/http://caesarexperts.nl/blog/Blog_Sander_over_de_MS_Band)
+- IoT Suite (@caesarexperts)
+
+
+### 2009 - 2015
+- Integration blog about Microsoft Integration: [https://snefs.blogspot.com/](https://snefs.blogspot.com/)
