@@ -9,11 +9,13 @@
 <a href="https://twitter.com/snefs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snefs" height="30" width="40" /></a>
 <a href="https://medium.com/@snefs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@snefs" height="30" width="40" /></a>
 <a href="mailto:sander@itconnector.nl?subject=Found you on GitHub!&body=Hi Sander, How are you doing? I saw your profile and have the following question: ...." target="blank">📧 E-MAIL</a>
+<a href="www.it-connector.com"><img src="https://github.com/user-attachments/assets/1e17a532-a004-4aed-a395-58b8c5d0e960" alt="https://www.it-connector.com" width="100"/></a>
+  
 
 </p>
 <br>
 
-- 🔭 I’m currently working on **Azure Integration projects**
+- 🔭 I’m currently working on **Azure Integration projects**, see my way of work at <a href="https://github.com/snefs/Azure/wiki">Azure approach</a>
   - For these projects I am profound in use Logic Apps / Functions / Service Bus / API Management / Service Bus / Event Grid.
   - My tasks entail from start to finish the integration patterns / architecture / design / development
   - I'm typically involved in complexed (ERP) projects and have experience with integrations of a variety of products (SAP4HANA / D365FO / Dataverse / Stibo Systems / etc.) 
