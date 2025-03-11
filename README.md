@@ -60,6 +60,10 @@
 # Audio content
 [Audio files (e.g. podcasts)](https://snefs.github.io/Azure/Audio/Audiofiles.html)
 
+# 2025
+- [Offering and services](https://www.linkedin.com/feed/update/urn:li:activity:7304800803163156481/)
+- [Azure project guides](https://github.com/snefs/Azure/wiki)
+
 # 2024
 
 ## Blogs written
