@@ -58,6 +58,7 @@
 [Audio files (e.g. podcasts)](https://snefs.github.io/Azure/Audio/Audiofiles.html)
 
 # 2025
+- [Mindmap MS Build 2025 (AI generated)](https://snefs.github.io/Azure/Audio/Build2025BookOfNewsMindmap.png)
 - [Offering and services](https://www.linkedin.com/feed/update/urn:li:activity:7304800803163156481/)
 - [Azure project guides](https://github.com/snefs/Azure/wiki)
 
