@@ -12,8 +12,10 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on **Azure Integration projects**, see my way of work at <a href="https://github.com/snefs/Azure/wiki">Azure approach</a>
-  - For these projects I am profound in use Logic Apps / Functions / Service Bus / API Management / Service Bus / Event Grid.
+  - 🔭 I’m helping companies by solving complex challenges, either due to internal struggles, expertise needed, with a getting things done mindset
+  - I have been involved in numerous integration projects impacting the whole organization, and am able to find common ground in teams, technology, culture.
+  - My background has been development in the broader sense; hardware/software/platform/architecture, allowing me to fit in any project/team
+  - How I work: <a href="https://github.com/snefs/Azure/wiki">Azure approach</a>
   - My tasks entail from start to finish the integration patterns / architecture / design / development
   - I'm typically involved in complexed (ERP) projects and have experience with integrations of a variety of products (SAP4HANA / D365FO / Dataverse / Stibo Systems / etc.) 
 
