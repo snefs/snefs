@@ -19,8 +19,6 @@
   - My tasks entail from start to finish the integration patterns / architecture / design / development
   - I'm typically involved in complexed (ERP) projects and have experience with integrations of a variety of products (SAP4HANA / D365FO / Dataverse / Stibo Systems / etc.) 
 
-- 🌱 I’m currently learning **Flutter and developing mobile Apps**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/sandernefs/](https://www.linkedin.com/in/sandernefs/)
 
 - 📝 Templates I've created that might be usefull: [ITConnector](https://github.com/ITConnector-nl/documents)
@@ -30,8 +28,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snefs&" alt="snefs" /></p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snefs&show_icons=true&locale=en" alt="snefs" /></p>-->
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snefs&show_icons=true&locale=en&layout=compact" alt="snefs" /></p>-->
-
-
 
 <h3 align="left">Primary languages and Tools:</h3>
 <p align="left">
@@ -56,8 +52,8 @@
     </a>
             </p>
 
-<img width="1672" height="941" alt="badidea" src="https://github.com/user-attachments/assets/a562078f-47f6-463f-a186-e5bf14db3702" />
 
+<img width="1536" height="1024" alt="73ad385e-9e94-467e-a248-831da0b73769" src="https://github.com/user-attachments/assets/e23fdfee-70c4-458a-b064-09483892e9a7" />
 
 
 # Audio content
