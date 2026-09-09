@@ -56,6 +56,10 @@
     </a>
             </p>
 
+<img width="1672" height="941" alt="badidea" src="https://github.com/user-attachments/assets/a562078f-47f6-463f-a186-e5bf14db3702" />
+
+
+
 # Audio content
 [Audio files (e.g. podcasts)](https://snefs.github.io/Azure/Audio/Audiofiles.html)
 
