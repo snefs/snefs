@@ -55,6 +55,93 @@
 
 <img width="1536" height="1024" alt="73ad385e-9e94-467e-a248-831da0b73769" src="https://github.com/user-attachments/assets/e23fdfee-70c4-458a-b064-09483892e9a7" />
 
+# 2026
+
+AI Solution recipes
+[one year of AI](https://snefs.github.io/ai-zone/2026/10/19/one-year-of-ai.html)
+[code analysis](https://snefs.github.io/ai-zone/2026/09/10/code-analysis.html)
+[cost management](https://snefs.github.io/ai-zone/2026/09/11/cost-management.html)
+[guardrails](https://snefs.github.io/ai-zone/2026/09/12/guardrails.html)
+[idea validation](https://snefs.github.io/ai-zone/2026/09/19/ideavalidation.html)
+[validate architecture design](https://snefs.github.io/ai-zone/2026/10/07/architecture-greenfield.html)
+
+AI Negativity
+[thoughts about ai development](https://snefs.github.io/ai-zone/2026/08/25/thoughts-about-ai-development.html)
+[bad idea](https://snefs.github.io/ai-zone/2026/09/01/bad-idea.html)
+[cloud was a risk](https://snefs.github.io/ai-zone/2026/09/08/cloud-was-a-risk.html)
+[token economics](https://snefs.github.io/ai-zone/2026/09/09/token-economics.html)
+
+# Experiment 07-oct-2026
+
+Goal: 
+    This is an experiment how different models would create an architecture and define the tech stack
+
+# Architecture Results
+
+All available architecture results containing `ScenarioA` or `ScenarioB`, grouped and sorted by subject and scenario.
+
+## 1. Enterprise Integration — Scenario A
+
+- [big-pickle — Scenario A](big-pickle.1.ScenarioA.md)
+- [Claude Sonnet 4.6 — Scenario A](Claude-Sonnet-4.6.1.ScenarioA.md)
+- [Gemini 3.1 Pro — Scenario A](Gemini-3.1-Pro.1.ScenarioA.md)
+- [GPT-5 — Scenario A](GPT-5.1.ScenarioA.md)
+
+## 1. Enterprise Integration — Scenario B
+
+- [big-pickle — Scenario B](big-pickle.1.ScenarioB.md)
+- [Claude Sonnet 4.6 — Scenario B](Claude-Sonnet-4.6.1.ScenarioB.md)
+- [Gemini 3.1 Pro — Scenario B](Gemini-3.1-Pro.1.ScenarioB.md)
+- [GPT-5 — Scenario B](GPT-5.1.ScenarioB.md)
+
+## 2. FrontEnd — Scenario A
+
+- [big-pickle — Scenario A](big-pickle.2.ScenarioA.md)
+- [Claude Sonnet 4.6 — Scenario A](Claude-Sonnet-4.6.2.ScenarioA.md)
+- [Gemini 3.1 Pro — Scenario A](Gemini-3.1-Pro.2.ScenarioA.md)
+- [GPT-5 — Scenario A](GPT-5.2.ScenarioA.md)
+
+## 2. FrontEnd — Scenario B
+
+- [big-pickle — Scenario B](big-pickle.2.ScenarioB.md)
+- [Claude Sonnet 4.6 — Scenario B](Claude-Sonnet-4.6.2.ScenarioB.md)
+- [Gemini 3.1 Pro — Scenario B](Gemini-3.1-Pro.2.ScenarioB.md)
+- [GPT-5 — Scenario B](GPT-5.2.ScenarioB.md)
+
+
+
+# Prompt
+
+    You are an architect that has to design a new architecture. This is a new project - green field. Create an architecture design and explain the decisions for 2 scenario's;
+
+    Scenario A: You have no technical limitations, or guidance, what tech stack would you use
+    Scenario B: You are an Azure solution architect, what tech stack would you use
+
+    Output should be;
+    - <AIModelNane>.1.<scenario.A>.md
+    - <AIModelNane>.1.<scenario.B>.md
+    - <AIModelNane>.2.<scenario.A>.md
+    - <AIModelNane>.2.<scenario.B>.md
+
+    Include:
+    - Mermaid diagram
+    - Table of the components, with: usage, why, 2 alternatives considered
+
+    1. Enterprise Integration with external systems using APIs
+    - incoming
+    - transformation of data
+    - outgoing
+    - monitor
+    - business process tracking
+    - ci/cd
+
+    2. FrontEnd application
+    - showcase products
+    - shop
+    - caching
+    - backend logic
+    - search products
+    - ci/cd
 
 # Audio content
 [Audio files (e.g. podcasts)](https://snefs.github.io/Azure/Audio/Audiofiles.html)
