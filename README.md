@@ -59,17 +59,27 @@
 
 AI Solution recipes
 [one year of AI](https://snefs.github.io/ai-zone/2026/10/19/one-year-of-ai.html)
+
 [code analysis](https://snefs.github.io/ai-zone/2026/09/10/code-analysis.html)
+
 [cost management](https://snefs.github.io/ai-zone/2026/09/11/cost-management.html)
+
 [guardrails](https://snefs.github.io/ai-zone/2026/09/12/guardrails.html)
+
 [idea validation](https://snefs.github.io/ai-zone/2026/09/19/ideavalidation.html)
+
 [validate architecture design](https://snefs.github.io/ai-zone/2026/10/07/architecture-greenfield.html)
+
 
 AI Negativity
 [thoughts about ai development](https://snefs.github.io/ai-zone/2026/08/25/thoughts-about-ai-development.html)
+
 [bad idea](https://snefs.github.io/ai-zone/2026/09/01/bad-idea.html)
+
 [cloud was a risk](https://snefs.github.io/ai-zone/2026/09/08/cloud-was-a-risk.html)
+
 [token economics](https://snefs.github.io/ai-zone/2026/09/09/token-economics.html)
+
 
 # Experiment 07-oct-2026
 
