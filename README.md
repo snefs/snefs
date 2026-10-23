@@ -58,6 +58,7 @@
 # 2026
 
 AI Solution recipes
+
 [one year of AI](https://snefs.github.io/ai-zone/2026/10/19/one-year-of-ai.html)
 
 [code analysis](https://snefs.github.io/ai-zone/2026/09/10/code-analysis.html)
@@ -70,8 +71,8 @@ AI Solution recipes
 
 [validate architecture design](https://snefs.github.io/ai-zone/2026/10/07/architecture-greenfield.html)
 
-
 AI Negativity
+
 [thoughts about ai development](https://snefs.github.io/ai-zone/2026/08/25/thoughts-about-ai-development.html)
 
 [bad idea](https://snefs.github.io/ai-zone/2026/09/01/bad-idea.html)
