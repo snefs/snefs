@@ -64,6 +64,11 @@
 
 # 2026
 
+Ignite 2026 Book of news (AI generated with NotebookLM 18-nov-2026)
+<audio controls>
+  <source src="https://github.com/snefs/Azure/raw/main/Audio/The_Rise_of_Autonomous_AI_Coworkers.m4a" />
+</audio>
+
 AI Solution recipes
 
 [one year of AI](https://snefs.github.io/ai-zone/2026/10/19/one-year-of-ai.html)
@@ -165,11 +170,28 @@ All available architecture results containing `ScenarioA` or `ScenarioB`, groupe
 [Audio files (e.g. podcasts)](https://snefs.github.io/Azure/Audio/Audiofiles.html)
 
 # 2025
+
+- Book of news Microsoft Build 2025 (note: AI generated)
+<audio controls>
+  <source src="https://github.com/snefs/Azure/raw/main/Audio/MicrosoftBuild2025.mp3" />
+</audio>
+
+- Google/IO 2025 (note: AI generated)
+<audio controls>
+  <source src="https://github.com/snefs/Azure/raw/main/Audio/GoogleIO2025.mp3" />
+</audio>
+
 - [Mindmap MS Build 2025 (AI generated)](https://snefs.github.io/Azure/Audio/Build2025BookOfNewsMindmap.png)
 - [Offering and services](https://www.linkedin.com/feed/update/urn:li:activity:7304800803163156481/)
 - [Azure project guides](https://github.com/snefs/Azure/wiki)
 
 # 2024
+
+- Book of news Microsoft Ignite 2024 (note: AI generated)
+<audio controls>
+  <source src="https://github.com/snefs/Azure/raw/main/Audio/ignite2024_bookofnews.mp3" />
+</audio>
+
 
 ## Blogs written
 
